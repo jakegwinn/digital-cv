@@ -140,6 +140,10 @@ li{
 .card--project a :hover{
     color: var(--mainLinkColor);
 }
+.card--awards { 
+    padding-top: 0.5em;
+    border-top: 1px solid var(--mainBorderColor);
+}
 
 @media(max-width:600px){
     #wrapper--hero{
